@@ -11,14 +11,14 @@ body {
   font-weight: 300;
   font-style: normal;
   color: #000;
-  background: #ffffff;
+  background: #cccccc;
 }
 div {
   grid-row-start: 1;
   grid-row-end: 3;
 }
 h1{
-  font-family: '迷你简卡通', cursive;
+  font-family: 'Abril Fatface', cursive;
   font-weight: normal;
   letter-spacing: .05em;
   color: #000;
