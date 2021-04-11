@@ -21,7 +21,7 @@ h1{
   font-family: '迷你简卡通', cursive;
   font-weight: normal;
   letter-spacing: .05em;
-  color: #000;
+  color: rgb(108, 164, 228);
   font-size: 10rem;
   text-align: center;
   position: relative;
@@ -35,9 +35,7 @@ h2{
   font-size: 4.2rem;
   text-align: center;
   position: relative;
-  top: 40%;
-  left: 50%;
-  width: 50%;
+
 }
 h3{
   font-family: 'Abril Fatface', cursive;
