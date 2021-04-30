@@ -95,14 +95,11 @@ p {
 }
 
 img {
-  float: left;
   width: 40%;
   z-index: 1;
   object-fit: cover;
-  top: 0;
-  left: 0;
   border: 5px dashed lightblue;
-  margin-left: 40px;
-  margin-top: 20px;
-  margin-bottom: 30px;
+  text-align: center;
+  position: relative;
+  left:30%
 }
